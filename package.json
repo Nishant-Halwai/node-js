@@ -1,0 +1,27 @@
+{
+  "name": "gitnodejs",
+  "version": "1.0.0",
+  "description": "node js practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishant-Halwai/node-js.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Nishant Halwai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nishant-Halwai/node-js/issues"
+  },
+  "homepage": "https://github.com/Nishant-Halwai/node-js#readme",
+  "dependencies": {
+    "color": "^4.2.3",
+    "simple-node-logger": "^21.8.12"
+  }
+}
